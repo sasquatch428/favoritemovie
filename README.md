@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Favorite Movies List
 
-You can use the [editor on GitHub](https://github.com/sasquatch428/favoritemovie/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This was a web application that I created for my web application course. It has a homepage, two pages that show the list of my top ten favorite movies. Each page has 5 movies so that one page does not get too crowded. Then I have a form that allows users to give their input and let me know what I can improve on or what their favorite movies are. I also have back buttons for each page so that the user can get back to the homepage easily. Then I have a panel that when clicked gives addition information about myself and why I like movies so much. The purpose of this assignment is to create a web application that contains a list of favorites, I chose movies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+http://sotd.us/drewtschimperle/favoritemovie/favoritemovies.html
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sasquatch428/favoritemovie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
